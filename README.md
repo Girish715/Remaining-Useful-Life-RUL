@@ -45,14 +45,6 @@ This project focuses on predicting the Remaining Useful Life (RUL) of industrial
 
 ---
 
-## Folder Structure
-
-├── data/ # Raw and processed datasets
-├── notebooks/ # Jupyter Notebooks for experiments
-├── models/ # Saved models and training logs
-├── scripts/ # Python scripts for data processing and training
-├── results/ # Visualizations and evaluation reports
-└── README.md # Project overview
 
 yaml
 Copy
